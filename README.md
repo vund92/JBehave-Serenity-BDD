@@ -9,8 +9,8 @@
 	# If the interviewer wants to run the test in the new version of Chrome, it needs to take more time for the chromedriver to be updated itself
 	# Then change 'webdriver.driver = chrome' in serenity.properties file if you wish
 
-# TecAlliance's practice test:
-	# This is an automation test project for BDD using JBehave and Serenity
+# Practice test summary:
+	# This is an automation test demo project for BDD using JBehave and Serenity
 
 # The libraries used:
 	# The libraries are managed in file 'pom.xml'
